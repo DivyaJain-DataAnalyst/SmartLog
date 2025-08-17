@@ -231,7 +231,8 @@ This project `License` coming soon.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
 
 **👨‍💻 Developed By** 
-  **❤️Tanmay Kalra and Contributors❤️** [Watch Demo](smart-log-navy.vercel.app) • [Request Feature](https://github.com/TanmayKalra09/SmartLog/issues) • [Documentation](https://github.com/TanmayKalra09)
+  **❤️Tanmay Kalra and Contributors❤️** 
+  [Watch Demo](https://smart-log-navy.vercel.app/) • [Request Feature](https://github.com/TanmayKalra09/SmartLog/issues) • [Documentation](https://github.com/TanmayKalra09)
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 

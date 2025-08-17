@@ -1,4 +1,4 @@
-*** 💸 Smart Tracker***
+***💸 Smart Tracker***
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
 
@@ -119,7 +119,7 @@ npm run dev
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
 
-** 🤝👤 Contribution Guidelines**
+**🤝👤 Contribution Guidelines**
 
  We love our contributors! If you'd like to help, please check out our [`CONTRIBUTE.md`](https://github.com/TanmayKalra09/SmartLog/blob/main/CODE_OF_CONDUCT.md) file for guidelines.
 
@@ -138,8 +138,7 @@ npm run dev
 See the full list of contributors and their contributions on the [`GitHub Contributors Graph`](https://github.com/TanmayKalra09/SmartLog/graphs/contributors).
 
 <p align="center">
-<p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository!
-</p>
+<p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository! </p>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
@@ -179,12 +178,11 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
 
-** 📄 License**
+**📄 License**
 
 This project `License` coming soon.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
-
 
 **⭐ Stargazers**
 <div align="center">
@@ -233,9 +231,10 @@ This project `License` coming soon.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
 
 <p align="center">
-**👨‍💻 Developed By** **❤️Tanmay Kalra and Contributors❤️**
-[Report Bug](https://github.com/TanmayKalra09/SmartLog/issues) • [Request Feature](https://github.com/TanmayKalra09/SmartLog/issues) • [Documentation](https://github.com/TanmayKalra09)
+**👨‍💻 Developed By** 
+  **❤️Tanmay Kalra and Contributors❤️** [Report Bug](https://github.com/TanmayKalra09/SmartLog/issues) • [Request Feature](https://github.com/TanmayKalra09/SmartLog/issues) • [Documentation](https://github.com/TanmayKalra09)
 </p>
+
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
 > [🔝 Back to Top](#top)
